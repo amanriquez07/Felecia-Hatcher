@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://behindthebrilliance.com/wp-content/uploads/2017/05/feature6-1-5139b44ced4f8808.jpg);
+   color:rgb(255, 0, 234)
+}
+
+table{
+    background-color: rgb(238, 238, 233);
+}
+
+table, tr, td{
+    border: 1px solid black;
+}
